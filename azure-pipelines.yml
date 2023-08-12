@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name: DESKTOP-MSLMBUJ
+  name: Nome 1
 
 variables:
   solution: '**/*.sln'
